@@ -1,0 +1,26 @@
+<annotation>
+	<folder>portakal</folder>
+	<filename>portakal (44).jpeg</filename>
+	<path>C:\Users\goktu\OneDrive\Desktop\portakal\portakal (44).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>540</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>portakal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>323</xmin>
+			<ymin>249</ymin>
+			<xmax>594</xmax>
+			<ymax>325</ymax>
+		</bndbox>
+	</object>
+</annotation>
