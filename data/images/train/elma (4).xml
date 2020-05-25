@@ -1,0 +1,26 @@
+<annotation>
+	<folder>elma</folder>
+	<filename>elma (4).jpeg</filename>
+	<path>C:\Users\goktu\OneDrive\Desktop\elma\elma (4).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>760</width>
+		<height>540</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>elma</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>283</xmin>
+			<ymin>227</ymin>
+			<xmax>492</xmax>
+			<ymax>303</ymax>
+		</bndbox>
+	</object>
+</annotation>
