@@ -1,0 +1,38 @@
+<annotation>
+	<folder>muz</folder>
+	<filename>muz (18).jpeg</filename>
+	<path>C:\Users\goktu\OneDrive\Desktop\muz\muz (18).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>540</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>muz</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>463</xmin>
+			<ymin>185</ymin>
+			<xmax>602</xmax>
+			<ymax>286</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>muz</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>282</xmin>
+			<ymin>179</ymin>
+			<xmax>459</xmax>
+			<ymax>284</ymax>
+		</bndbox>
+	</object>
+</annotation>
